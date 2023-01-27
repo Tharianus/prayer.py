@@ -4,9 +4,9 @@
 #
 
 __author__ = "A.Q. Zimdars"
-__copyright__  = "Copyright 2019 Zimdars"
+__copyright__  = "Copyright 2023 Zimdars"
 __license__ = "CC BY-SA 4.0"
-__version__ = "1.0"
+__version__ = "1.1"
 
 from time import sleep
 from string import ascii_lowercase, ascii_uppercase, digits
