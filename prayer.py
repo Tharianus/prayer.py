@@ -139,7 +139,7 @@ def prayer (n, choice=None):
         print ("1) Calm the machine spirit")
         print ("2) Awaken the machine")
         print ("3) Repair this machine")
-        print ("4) Communicate with the others")
+        print ("4) Commune")
         print ("5) Prepare for action")
         choice = input().strip()
 
